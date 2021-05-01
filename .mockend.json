@@ -3,8 +3,7 @@
     "title": "string",
     "views": "int",
     "published": "boolean",
-    "createdAt": "date",
-    "comments": Comment[]
+    "createdAt": "date"
   },
   "Comment": {
     "body": "string",
