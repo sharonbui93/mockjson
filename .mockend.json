@@ -4,7 +4,14 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "comments": [
+      {
+    "body": "abc"
+  },
+      {
+    "body": "abc"
+  }
+    ]
   },
   "Comment": {
     "body": "string",
